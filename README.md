@@ -1,3 +1,8 @@
+Created using data from the Finhub API & Axios:
+https://finnhub.io
+
+Firebase backend. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
