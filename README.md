@@ -1,4 +1,5 @@
-Created using data from the Finhub API & Axios:
+Created using data from the Finhub API:
+
 https://finnhub.io
 
 Firebase backend. 
